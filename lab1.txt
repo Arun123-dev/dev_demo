@@ -1,3 +1,0 @@
-hello
-Ankur
-git is vcs tool
